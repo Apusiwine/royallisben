@@ -56,7 +56,7 @@ nav a:hover {color: #E91629;}
     .set-bar-pic{display: none;}   
 }
 
-.value-bar{margin-top: 70px;background: linear-gradient(rgba(255,255,255,0.7),rgba(255,255,255,0.8)),url(images/back.JPG);
+.value-bar{margin-top: 70px;background: linear-gradient(rgba(255,255,255,0.7),rgba(255,255,255,0.8)),url(back.JPG);
     padding: 5rem 1rem;color: #000; text-align: center;}
 
 .license-bar{padding: 50px 10px;}
@@ -73,7 +73,7 @@ nav a:hover {color: #E91629;}
 
 .ad-row-1{padding: 3rem 3rem;}
 .ad-row-2{padding: 3rem 3rem;background-color: #19245D; color: #fff;}
-.ad-row-3{padding: 7rem 0; background: linear-gradient(rgba(255,255,255,0.4),rgba(255,255,255,0.7)),url(images/_KEL8321.JPG); 
+.ad-row-3{padding: 7rem 0; background: linear-gradient(rgba(255,255,255,0.4),rgba(255,255,255,0.7)),url(_KEL8321.JPG); 
     margin-top: 2rem; color: #19245D; font-weight: bold;}
 .ad-row-3 h3{text-align: center; margin: 2rem;}
 
